@@ -1,3 +1,4 @@
+![Demo Screenshot](./ReadmeImg.png)
 # Invoice Maker API for Mauli Enterprices
 
 A lightweight RESTful API for creating, retrieving, updating, and deleting invoices. Built with **TypeScript**, **Express.js**, and **MongoDB (Mongoose)**.
